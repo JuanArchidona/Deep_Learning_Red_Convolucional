@@ -21,5 +21,4 @@ APARTADOS PARA AMBAS REDES CONVOLUCIONALES (SIN Y CON TRANSFER LEARNING)
 Se adjuntan:
 
 - Los cuadernos correspondientes a las dos redes. 
-
 - Un powerpoint con la descripción comparativa del desarrollo de dos pruebas, en cada una de las dos redes.
